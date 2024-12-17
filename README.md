@@ -228,4 +228,6 @@ overlay.addEventListener('click', (e) => {
   
  ![alt text](<Screenshot 2024-12-17 220202-1.png>)
 # RESULT:
+
+
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
